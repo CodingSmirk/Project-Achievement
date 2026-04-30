@@ -70,7 +70,7 @@
 - 성능 검증용 소프트웨어 GUI화
 - 로그 데이터를 활용한 도로 상황의 직관적인 GUI 시각화
 
-### 5. 프로젝트 결과물(5G-NR V2X Communication System Performance Verification Software 폴더)
+### 5. [프로젝트 결과물](https://github.com/CodingSmirk/Project-Achievement/tree/6e5e0d53cbd94a57691a6b6bc4f5ad6b671fd21f/5G-NR%20V2X%20Communication%20System%20Performance%20Verification%20Software)
 - packet_header_struct.py # 5G-NR 기반 통신 장비용 패킷 헤더 구조체 정의
 - select_window.py # 송수신(Sender/Receiver) 역할 선택 인터페이스
 - sender_window.py # 송신자용 모니터링 GUI 및 데이터 전송,처리 백엔드 모듈
