@@ -24,7 +24,10 @@
 - Riverbed 네트워크 시뮬레이터(구 OPNET) 기반 LLS/SLS(NLS) 통합 시뮬레이터 안정화
 - MATLAB 기반 충돌 방지를 위한 간단한 편대 비행 알고리즘 개발 및 검증
 
-### 5. 결과물 예시
+### 5. 프로젝트 결과물
+- 상세 코드는 프로젝트 보안 특성에 따라 생략하며, 시스템의 기본 통신 구조와 로직은 첨부된 Riverbed Modeler 설계도로 확인 가능
+
+### 6. 결과물 예시
 <kbd>
   <img src="https://github.com/CodingSmirk/Project-Achievement/blob/0d727f694f6ce106e7e57591849bd062bbfd21d8/Image/Riverbed%20Modeler%201.png"/>
 </kbd>
@@ -74,6 +77,7 @@
 - receiver_window.py # 수신자용 모니터링 GUI 및 데이터 전송, 처리 백엔드 모듈
 - GPS_log_visualization.py # 위치 데이터(GPS) 기반 통신 성능 맵핑 및 시각화 .html 산출 모듈
 - resource 폴더 내 파일들 # GUI 구성을 위한 시각적 에셋 및 네비게이션 리소스
+
 ### 6. 결과물 예시
 <kbd>
   <img src="https://github.com/CodingSmirk/Project-Achievement/blob/d0dc052516b384eab7e10056e4a5077f318686ef/Image/Software%20%26%20Hardware.png"/>
